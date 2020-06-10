@@ -20,4 +20,4 @@ Banco de dados: Relacional: SQL SERVER
 2-Acesse a pasta com o tìtulo "Base" que estará na mesma pasta onde você clonou seu projeto e execute o script no banco de dados. 
 
 # Aplicação
-2-Acesso o arquivo "appsettings.json" que se encontra dentro do projeto "Presentation" e altere a propriedade "DevConnection"  com os dados do seu banco de dados.
+2-Acesso o arquivo "appsettings.Development.json" que estará dentro de "appsettings.json" que se encontra dentro do projeto "Presentation" e altere a propriedade "DevConnection"  com os dados do seu banco de dados.
