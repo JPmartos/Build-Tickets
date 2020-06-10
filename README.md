@@ -16,7 +16,7 @@ Banco de dados: Relacional: SQL SERVER
 # procedimento para executar a aplicação:
 
 # Base
-1-Acesse seu SQL server e crie uma base de dados com BuildOne.
+1-Acesse seu SQL server e crie uma base de dados com o nome BuildOne.
 2-Acesse a pasta com o tìtulo "Base" que estará na mesma pasta onde você clonou seu projeto e execute o script no banco de dados. 
 
 # Aplicação
