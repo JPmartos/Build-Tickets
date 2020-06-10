@@ -1,5 +1,5 @@
 # Build-Tickets
-aplicação para o gerenciamento de tickets.
+aplicação para gerenciamento de tickets.
 
 # Desafios/problemas 
 Um dos desafios que encontrei foi mais a questão do layout que foi desenvolvido em React, apesar de não está sendo avaliado, quis desenvolver o front com essa tecnologia pois esta super em alta no mercado, e como estou estudando achei que seria uma boa oportunidade em utiliza-la.
